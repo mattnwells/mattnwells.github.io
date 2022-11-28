@@ -1,17 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SQL on Matt Wells</title><link>https://mattnwells.github.io/tags/sql/</link><description>Matt Wells (SQL)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 13:56:23 -0800</lastBuildDate><atom:link href="https://mattnwells.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://mattnwells.github.io/posts/my-first-post/</link><pubDate>Mon, 28 Nov 2022 13:56:23 -0800</pubDate><guid>https://mattnwells.github.io/posts/my-first-post/</guid><description>&lt;h1 id="my-main-heading" >My main heading
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>SQL on Matt Wells</title><link>https://mattnwells.github.io/tags/sql/</link><description>Matt Wells (SQL)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 28 Nov 2022 13:56:23 -0800</lastBuildDate><atom:link href="https://mattnwells.github.io/tags/sql/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://mattnwells.github.io/posts/my-first-post/</link><pubDate>Mon, 28 Nov 2022 13:56:23 -0800</pubDate><guid>https://mattnwells.github.io/posts/my-first-post/</guid><description>&lt;h1 id="this-is-a-test-title" >This is a Test Title
 &lt;span>
-&lt;a href="#my-main-heading">
+&lt;a href="#this-is-a-test-title">
 &lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
 &lt;/a>
 &lt;/span>
-&lt;/h1>&lt;p>It&amp;rsquo;s so &lt;em>exciting&lt;/em> writing my first &lt;strong>hugo&lt;/strong> blog post.&lt;/p>
-&lt;h2 id="a-smaller-heading" >A smaller heading
-&lt;span>
-&lt;a href="#a-smaller-heading">
-&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
-&lt;/a>
-&lt;/span>
-&lt;/h2>&lt;ul>
-&lt;li>Wow these bullets are way easier than HTML bullets!&lt;/li>
-&lt;li>Enough writing, let&amp;rsquo;s see what it looks like!&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;/h1>&lt;p>These are some test words. :see_no_evil:&lt;/p></description></item></channel></rss>
